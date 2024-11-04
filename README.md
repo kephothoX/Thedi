@@ -11,4 +11,4 @@ Server should run automatically when starting a workspace. To run manually, run:
 npm run dev
 ```
 
-To run from [Google IDX](https://idx.google.com/import) clone both `https://github.com/kephothoX/ThediFrontend` and `https://github.com/kephothoX/ThediServer` and import them directly to your workspace.
+To run from [Google IDX](https://idx.google.com) clone both `https://github.com/kephothoX/ThediFrontend` and `https://github.com/kephothoX/ThediServer` and import them directly to your workspace.
